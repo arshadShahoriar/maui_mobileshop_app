@@ -1,1 +1,1 @@
-# maui_expense_calculator_app
+# maui_app
